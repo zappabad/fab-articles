@@ -166,7 +166,7 @@ For example:
 Hopefully all these examples made sense to you and by now you are at least convinced it might make sense to define Tempo like so. I **really** encourage everyone to put this definition to challenge so we can better adapt it to be a meaningful term that can be used in FAB. I believe this defition has a lot of meaning behind it and still encompasses the spirit of what it means to lose or gain Tempo, while it also opens up space for other terms to be used as support to this definition such as **betting and pivoting.**
 
 
-# REFACTOR WHATEVER ELSE IS BELOW, THIS IS NOT GOOD
+# REFACTOR WHATEVER ELSE IS BELOW, THIS IS NOT GOOD, DONT READ, GO AWAY AND THANK YOU
 
 
 
